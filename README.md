@@ -1,6 +1,7 @@
 # LiFi Communication System
 
  **Overview**
+ 
 This project demonstrates a basic LiFi (Light Fidelity) communication system, which uses visible light for data transmission instead of radio waves. The system consists of a transmitter (LED-based) and a receiver (LDR-based) that work together to securely transfer data.
 
  Features
